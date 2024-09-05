@@ -8,7 +8,7 @@ title: Blogs
 
 
 
-- [上海雷达](https://caihanlin.com/blogs/Shanghai-Radar/)
+- [上海雷达](./blogs/Shanghai-Radar/)
 
 
 <br>
