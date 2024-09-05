@@ -14,7 +14,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs" 
 
 
 # Links to include in top navigation
@@ -33,39 +33,30 @@ links:
   - title: Teams
     url: /teams/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
 future: true
+# 控制 Jekyll 是否会生成和显示未来日期的文章。设置为 true 表示即使文章的发布日期在未来，也会在站点上显示。这个选项常用于定时发布内容的场景。
 highlighter: rouge
-# markdown: kramdown
-# markdown: redcarpet
-# pygments: true
+# 设置代码语法高亮工具为 rouge，这是一款用于 Jekyll 的 Ruby 语法高亮库。rouge 支持多种编程语言的代码高亮，在 Jekyll 中是常用的高亮插件。
 
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# 这是 Jekyll 的永久链接设置，它定义了文章的 URL 结构。/:categories/:title 意味着文章的链接将包括文章所属的分类和标题。例如，如果一篇文章的分类是 blog，标题是 my-post，链接将是 /blog/my-post/。
 permalink:   /:categories/:title
 
 
 kramdown:
+# 这是对 Jekyll 使用的 Markdown 解析器 Kramdown 的配置
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
 
-  # coderay:
-  #   coderay_line_numbers:
-  #   coderay_line_numbers_start: 1
-  #   coderay_tab_width: 4
-  #   coderay_bold_every: 10
-  #   coderay_css: class
-
 
 # disqus settings:
+# 配置 Disqus 评论系统的短名称。Disqus 是一个第三方评论插件，通过这个 shortname 与特定网站关联。
 disqus:
-  shortname: lancecai
+  shortname: shepherd
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/12/10 by Hanlin Cai.
