@@ -8,7 +8,7 @@ title: Blogs
 
 
 
-- [上海雷达](https://shepherdchinacan.github.io//blogs/Shanghai-Radar/)
+- [上海雷达](https://shepherdchinacan.github.io//blogs/Shanghai-Radar)
 
 
 <br>
