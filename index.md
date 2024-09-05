@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="./sunsencan.png" class="floatpic" width="360" height="480">
+<img src="./images/sunsencan.png" class="floatpic" width="360" height="480">
 
 Here is **Sun Sencan (孙森灿)**.
 
