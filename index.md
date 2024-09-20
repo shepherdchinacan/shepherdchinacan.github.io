@@ -22,11 +22,25 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Interests
 
 - Probabilistic generation model especially Diffusion models
-- And above algorithm utility in Weather predicting & Climate simulation & Data assimilation
+- And above algorithms' utility in Weather predicting & Climate simulation & Data assimilation
 
 I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
+
+
+
+## Experiences
+Meteorological AI Algorithm Engineering Intern at ColorfulClouds Tech.
+
+During my internship, I gained a thorough understanding of the entire AI-powered weather forecasting workflow. This encompassed data transmission and management, model architecture design, utilizing cloud computing platforms for training and deployment, as well as testing and production rollout.
+
+• During the early stage of my internship, I was responsible for developing a project utilizing the HRnet network for radar image denoising.
+
+• Later, I was assigned to develop a rainfall prediction model.
+
+
+
 
 ## Skills
 
