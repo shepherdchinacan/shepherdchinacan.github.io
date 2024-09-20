@@ -8,7 +8,7 @@ layout: page
 
 Here is **Sun Sencan (孙森灿)**.
 
-And I am a first-year doctoral student at Tsinghua University in China, with a background in Atmospheric Science. Currently, I am dedicating my research efforts towards exploring artificial intelligence methods for atmospheric circulation especially rainfall prediction.
+And I am a second-year doctoral student at Tsinghua University in China, with a background in Atmospheric Science. Currently, I am dedicating my research efforts towards exploring artificial intelligence methods for weather forecasting, data assimilation and climate prediction.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - ssc23@mails.tsinghua.edu.cn
 
@@ -21,11 +21,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Diffusion models
-- Weather predicting & Climate simulation
+- Probabilistic generation model especially Diffusion models
+- And above algorithm utility in Weather predicting & Climate simulation & Data assimilation
 
-
-My research interests focus on AI generation algorithms, particularly **diffusion models**, and their applications in weather forecasting, climate simulation, and numerical model evaluation. I wish to devote my talent to this meaningful cause and bring well-being to society.
+I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
@@ -34,11 +33,11 @@ My research interests focus on AI generation algorithms, particularly **diffusio
 
 ### Artificial Intelligence
 
-Since September 2022, I have been studying machine learning and have since delved into using deep learning techniques to tackle a series of scientific challenges in the field of meteorology. I am passionate about AI and hope to connect with more like-minded individuals.
+My journey in the realm of Artificial Intelligence began with a comprehensive study of foundational computer science courses, including computer architecture, operating systems, data structures and algorithms, and high-performance computing. This robust educational background laid the groundwork for my foray into the dynamic field of machine learning. In particular, I have been captivated by the potential of deep learning techniques, which I have applied to address complex scientific challenges within the meteorological domain. My passion for AI is fueled by the endless possibilities it presents for innovation and problem-solving across various industries.
 
 ### Meteorology
 
-During my undergraduate studies, I took numerous courses in meteorology, such as dynamic meteorology, principles of meteorology, and climate dynamics, which provided me with a solid foundation in meteorology and even global climate change. Additionally, I have some experience in using atmospheric numerical models, although I may not focus on numerical meteorological models in the future.
+During my undergraduate studies, I took numerous courses in meteorology, such as dynamic meteorology, principles of meteorology, and climate dynamics, which provided me with a solid foundation in meteorology. Additionally, I have some experience in using atmospheric numerical models, although I may not focus on numerical meteorological models in the future.
 
 ### Technical writing
 

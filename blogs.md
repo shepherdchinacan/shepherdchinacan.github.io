@@ -6,10 +6,7 @@ title: Blogs
 
 ## Chinese Blogs
 
-
-
-- [上海雷达](https://shepherdchinacan.github.io//blogs/Shanghai-Radar)
-
+I am planning a special topic on functional analysis and its application in cutting-edge diffusion models. If you are interested, please contact me.
 
 <br>
 
