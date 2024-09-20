@@ -19,7 +19,7 @@ I am planning a special topic on functional analysis and its application in cutt
 • Currently in the writing phase, with plans to submit findings to journal before 2025.
 
 <div>
-<img src="./images/paper_pic_1.png">
+<img src="images/paper_pic_1.png">
 </div>
 <!-- <img src="./images/paper_pic_1.png" class="floatpic" width="360" height="240"> -->
 
