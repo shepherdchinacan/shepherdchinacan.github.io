@@ -21,6 +21,7 @@ I am planning a special topic on functional analysis and its application in cutt
 <div>
 <img src="./images/paper_pic_1.png">
 </div>
+<br>
 <!-- <img src="./images/paper_pic_1.png" class="floatpic" width="360" height="240"> -->
 
 
