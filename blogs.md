@@ -11,11 +11,15 @@ I am planning a special topic on functional analysis and its application in cutt
 
 
 ### My first Paper in Preparation!
+
 • Developed a method to increase the number of extreme rainfall events to enhance the training of predictive models.
 
 • Successfully completed preliminary experimental tests validating the eﬀectiveness of the algorithms.
 
 • Currently in the writing phase, with plans to submit findings to journal before 2025.
+
+<img src="./images/paper_pic_1.png" class="floatpic" width="360" height="240">
+
 
 <br>
 
