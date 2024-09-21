@@ -26,6 +26,7 @@ I am planning a special topic on functional analysis and its application in cutt
 
 <img src="./images/sunsencan.png" class="floatpic" width="360" height="480">
 
+![demo](./images/paper_pic.png)
 
 <br>
 
