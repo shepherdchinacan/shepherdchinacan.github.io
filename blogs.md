@@ -18,14 +18,6 @@ I am planning a special topic on functional analysis and its application in cutt
 
 • Currently in the writing phase, with plans to submit findings to journal before 2025.
 
-<div>
-<img src="./images/paper_pic.png">
-</div>
-<br>
-<!-- <img src="./images/paper_pic_1.png" class="floatpic" width="360" height="240"> -->
-
-<img src="./images/sunsencan.png" class="floatpic" width="360" height="480">
-
 ![demo](./images/paper_pic.png)
 
 <br>
