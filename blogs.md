@@ -24,6 +24,8 @@ I am planning a special topic on functional analysis and its application in cutt
 <br>
 <!-- <img src="./images/paper_pic_1.png" class="floatpic" width="360" height="240"> -->
 
+<img src="./images/sunsencan.png" class="floatpic" width="360" height="480">
+
 
 <br>
 
