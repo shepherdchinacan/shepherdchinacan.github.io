@@ -27,12 +27,15 @@ A huge thank you to all the amazing professors for their brilliant lectures! I�
 
 - **time:** Sept 19 to Sept 21, 2024
 
-- **location:** IAS LT, HKUST(THE HONG KONG POLYTECHNIC UNIVERSITY)
+**Location:** IAS Lecture Theatre, HKUST (The Hong Kong Polytechnic University)
 
-![香港AI研讨会1](./images/香港AI研讨会1.png)
-![香港AI研讨会2](./images/香港AI研讨会2.png)
+This September, I had the opportunity to be part of a groundbreaking AI event— this three-day symposium brought together leading experts from around the globe to discuss cutting-edge AI technologies and their transformative impact on atmospheric science.
 
+From keynote lectures on climate modeling to AI in severe weather nowcasting, the event was packed with insights and exciting developments. Experts shared their research on neural weather models, AI-driven climate emulators, and innovative approaches to climate resilience.
 
+Check out some snapshots from the event!  
+![Hong Kong AI Symposium 1](./images/香港AI研讨会1.png)  
+![Hong Kong AI Symposium 2](./images/香港AI研讨会2.png)
 
 
 
