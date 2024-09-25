@@ -21,6 +21,7 @@ Let me know if you’d like any tweaks!
 
 ![证书](./images/地学系暑期学校证书.png)
 
+<img src="./images/地学系暑期学校证书.png" alt="证书" width="500"/>
 
 ---
 
