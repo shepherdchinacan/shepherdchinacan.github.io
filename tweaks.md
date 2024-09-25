@@ -11,9 +11,12 @@ Let me know if you’d like any tweaks!
 
 ----
 
-# International Summer School on Development and Application of Earth System Model
-**time: ** August 26 to August 30, 2024
-**location: ** Tsinghua University
+# 1. International Summer School on Development and Application of Earth System Model
+
+- **time: ** August 26 to August 30, 2024
+
+- **location: ** Tsinghua University
+
 ![证书](./images/地学系暑期学校证书.png)
 
 
