@@ -32,12 +32,7 @@ I wish to devote my talent to this meaningful cause and bring well-being to soci
 
 ## Experiences
 - **Meteorological AI Algorithm Engineering Intern at ColorfulClouds Tech.**
-    During my internship, I gained a thorough understanding of the entire AI-powered weather forecasting workflow. This encompassed data transmission and management, model architecture design, utilizing cloud computing platforms for training and deployment, as well as testing and production rollout.
-
-    • During the early stage of my internship, I was responsible for developing a project utilizing the HRnet network for radar image denoising.
-
-    • Later, I was assigned to develop a rainfall prediction model.
-
+    During my internship, I gained a thorough understanding of the entire AI-powered weather forecasting workflow. This encompassed data transmission and management, model architecture design, utilizing cloud computing platforms for training and deployment, as well as testing and production rollout. During the early stage of my internship, I was responsible for developing a project utilizing the HRnet network for radar image denoising.
 
 
 
