@@ -27,7 +27,7 @@ A huge thank you to all the amazing professors for their brilliant lectures! Iâ€
 
 - **time:** Sept 19 to Sept 21, 2024
 
-**Location:** IAS Lecture Theatre, HKUST (The Hong Kong Polytechnic University)
+- **Location:** IAS Lecture Theatre, HKUST (The Hong Kong Polytechnic University)
 
 This September, I had the opportunity to be part of a groundbreaking AI eventâ€” this three-day symposium brought together leading experts from around the globe to discuss cutting-edge AI technologies and their transformative impact on atmospheric science.
 
