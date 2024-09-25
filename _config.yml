@@ -7,7 +7,7 @@ url: https://shepherdchinacan.github.io/
 owner:
   name: Sencan Sun
   avatar: avatar.JPG
-  # bio: Two roads diverged in woods, I took the one less traveled by.
+  bio: Two roads diverged in woods, I took the one less traveled by.
   email: ssc23@mails.tsinghua.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   github: sunmoumou1
@@ -26,6 +26,8 @@ links:
     url: /hobbies/
   - title: Blogs
     url: /blogs/
+  - title: Tweaks
+    url: /tweaks/
 
 timezone: China/Beijing
 future: true
