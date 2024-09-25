@@ -19,6 +19,8 @@ Let me know if you’d like any tweaks!
 
 - **location:** Tsinghua University
 
+A huge thank you to all the amazing professors for their brilliant lectures! I’ve gained so much insight into the exciting ways **AI** is being applied in Earth sciences. Plus, this was my first time serving as a ==teaching assistant== —what an experience! I learned a lot, had some fun, and it’s definitely a milestone I’ll never forget.
+
 ![证书](./images/地学系暑期学校证书.png)
 
 
