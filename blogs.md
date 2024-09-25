@@ -4,13 +4,13 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
-## Chinese Blogs
+# Blogs
 
-### NEWS
+## Functional analysis?
 I am planning a special topic on functional analysis and its application in cutting-edge diffusion models. If you are interested, please contact me.
 
 
-### My first Paper in Preparation!
+## My first Paper in Preparation!
 
 • Developed a method to increase the number of extreme rainfall events to enhance the training of predictive models.
     1. Successfully completed preliminary experimental tests validating the eﬀectiveness of the algorithms.
