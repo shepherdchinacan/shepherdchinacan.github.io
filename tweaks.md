@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/tweaks.html
+permalink: /tweaks/index.html
 title: Tweaks
 ---
 
