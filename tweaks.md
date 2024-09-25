@@ -35,7 +35,9 @@ From keynote lectures on climate modeling to AI in severe weather nowcasting, th
 
 Check out some snapshots from the event!  
 ![Hong Kong AI Symposium 1](./images/香港AI研讨会1.png)  
+
 ---
+
 ![Hong Kong AI Symposium 2](./images/香港AI研讨会2.png)
 
 
