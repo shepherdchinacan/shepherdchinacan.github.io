@@ -12,7 +12,7 @@ Let me know if you’d like any tweaks!
 ----
 # Lateeeeeest!
 
-# Passsssssst
+# Past
 ## 1. International Summer School on Development and Application of Earth System Model
 
 - **time:** August 26 to August 30, 2024
