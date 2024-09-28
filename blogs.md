@@ -18,6 +18,18 @@ I am planning a special topic on functional analysis and its application in cutt
 
 ![demo](./images/paper_pic.png)
 
+
+## torch_dct_expand_to_rectangle
+
+I recently encountered a challenge while training diffusion models, where I needed to mollify Gaussian noise. Initially, I explored the __torch_dct__ library but realized that it only supported DCT and IDCT on square matrices. However, my use case involved performing a DCT on a meteorological field (a rectangular field), where the longitudinal dimension is typically twice the length of the latitudinal direction. To address this problem, I extended the functionality to support DCT and IDCT on matrices with unequal height and width, allowing broader applicability in scenarios involving non-square matrices. This modification is now open-sourced on GitHub, and I welcome everyone to check it out and use it in their projects!
+
+![torch_dct_expand+to+rectangle](./images/torch_dct_expand+to+rectangle.png)
+
+> LINK: https://github.com/sunmoumou1/torch_dct_expand_to_rectangle
+
+
+
+
 <br>
 
 ## Leave a Message
