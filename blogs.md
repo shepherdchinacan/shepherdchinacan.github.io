@@ -27,7 +27,8 @@ I recently encountered a challenge while training diffusion models, where I need
 
 > LINK: https://github.com/sunmoumou1/torch_dct_expand_to_rectangle
 
-
+## 大气动力学教程笔记
+[1. 流体运动基本方程](https://shepherdchinacan.github.io/blogs/atmosphere_dynamics/1. 流体运动基本方程)
 
 
 <br>
