@@ -28,6 +28,8 @@ I recently encountered a challenge while training diffusion models, where I need
 > LINK: https://github.com/sunmoumou1/torch_dct_expand_to_rectangle
 
 ## 大气动力学教程笔记
+__下面整理了自己本科以及博士阶段整理的大气动力学相关的笔记，因为这些笔记的本质目的是记录下来常见的概念和结论以避免遗忘，因而很多时候并没有进行详细的推导__
+
 [1. 流体运动基本方程](https://shepherdchinacan.github.io/blogs/atmosphere_dynamics/1. 流体运动基本方程)
 
 
