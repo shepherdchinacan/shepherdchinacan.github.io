@@ -39,7 +39,7 @@ highlighter: rouge
 # 这是 Jekyll 的永久链接设置，它定义了文章的 URL 结构。/:categories/:title 意味着文章的链接将包括文章所属的分类和标题。例如，如果一篇文章的分类是 blog，标题是 my-post，链接将是 /blog/my-post/。
 permalink:   /:categories/:title
 
-
+markdown: kramdown
 kramdown:
 # 这是对 Jekyll 使用的 Markdown 解析器 Kramdown 的配置
   auto_ids: true
