@@ -14,11 +14,11 @@ Let’s start by supplementing some content about real-valued functions. Note th
 
 [1. 实变函数：为什么需要勒贝格积分](https://obsius.site/0o5s281v5r5v4320144i)
 
-[2. 实变函数：集合内容补充](https://shepherdchinacan.github.io/blogs/real_valued_function/2.集合内容补充)
+[2. 实变函数：集合内容补充](https://obsius.site/3n5y3u2w1l2a3p1g0i10)
 
-[3. 实变函数：测度](https://shepherdchinacan.github.io/blogs/real_valued_function/3.测度)
+[3. 实变函数：测度](https://obsius.site/3n5y3u2w1l2a3p1g0i10)
 
-[4. 实变函数：可测函数](https://shepherdchinacan.github.io/blogs/real_valued_function/4.可测函数)
+[4. 实变函数：可测函数](https://obsius.site/3n5y3u2w1l2a3p1g0i10)
 
 ---
 
