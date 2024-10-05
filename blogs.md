@@ -6,8 +6,17 @@ title: Blogs
 
 # Blogs
 
-## Functional analysis?
+## Functional analysis[泛函分析]?
 I am planning a special topic on functional analysis and its application in cutting-edge diffusion models. If you are interested, please contact me.
+
+---
+Let’s start by supplementing some content about real-valued functions. Note that these concepts are simplified compared to the real analysis courses typically offered to undergraduate mathematics students, as they are mainly aimed at researchers in machine learning.
+[1. 实变函数：为什么需要勒贝格积分](https://shepherdchinacan.github.io/blogs/real_valued_function/1.为什么需要勒贝格积分)
+[1. 实变函数：集合内容补充](https://shepherdchinacan.github.io/blogs/real_valued_function/2.集合内容补充)
+[1. 实变函数：测度](https://shepherdchinacan.github.io/blogs/real_valued_function/3.测度)
+[1. 实变函数：可测函数](https://shepherdchinacan.github.io/blogs/real_valued_function/4.可测函数)
+
+---
 
 
 ## My first Paper in Preparation!
